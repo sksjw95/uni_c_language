@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 void main() {
 	char c = 'A';
 	int i = 10, j = 20, k = 30;
@@ -6,4 +6,4 @@ void main() {
 	printf("c=%c, c의 아스키 코드값은 %d \n", c, c);
 	printf("i=%d,j=%d,k=%d", i, j, k);
 	printf("|%6.1f|\n", 123.44);
-}*/
+}
