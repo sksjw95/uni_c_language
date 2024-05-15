@@ -7,3 +7,4 @@ void main() {
 	printf("i=%d,j=%d,k=%d", i, j, k);
 	printf("|%6.1f|\n", 123.44);
 }
+1
