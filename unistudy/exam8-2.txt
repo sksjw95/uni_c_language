@@ -1,0 +1,6 @@
+
+ data[1187647616] =    0.000, count, data[count]
+ data[-641] =    0.000, count, data[count]
+ data[-641] =    0.000, count, data[count]
+ data[-641] =    0.000, count, data[count]
+ data[-641] =    0.000, count, data[count]
